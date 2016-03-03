@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Guard",""],["Timer","A timer, used to schedule execution of callbacks at a later date."]]});
